@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "3900e534e80c4d39954e92f25fccebfe"
+	name: "Rax_D"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: {
+		0000000000000000: 1692796540557L
+		450A4740EE2CD709: 1692796540557L
+		4C605EF60B7B067F: 1692796540557L
+		0000000000000001: 1692796540557L
+	}
+	claimed_rewards: {
+		"3900e534e80c4d39954e92f25fccebfe:7F5F3732DEBC589A": 1692796607908L
+	}
+	player_data: { }
+}

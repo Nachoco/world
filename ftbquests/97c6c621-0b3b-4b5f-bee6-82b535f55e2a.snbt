@@ -1,0 +1,17 @@
+{
+	version: 1
+	uuid: "97c6c6210b3b4b5fbee682b535f55e2a"
+	name: "Malenscl"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: {
+		0000000000000000: 1692753083289L
+		450A4740EE2CD709: 1692753083289L
+		4C605EF60B7B067F: 1692753083289L
+		0000000000000001: 1692753083289L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

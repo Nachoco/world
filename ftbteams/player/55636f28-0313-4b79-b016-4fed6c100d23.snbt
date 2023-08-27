@@ -1,0 +1,17 @@
+{
+	id: "55636f28-0313-4b79-b016-4fed6c100d23"
+	type: "player"
+	player_name: "PuppyCat1998"
+	ranks: {
+		55636f28-0313-4b79-b016-4fed6c100d23: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PuppyCat1998"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFAA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

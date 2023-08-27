@@ -1,0 +1,17 @@
+{
+	id: "c306dd57-ec87-4f74-afc4-06592da13e6e"
+	type: "player"
+	player_name: "KeWeaita69"
+	ranks: {
+		c306dd57-ec87-4f74-afc4-06592da13e6e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KeWeaita69"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

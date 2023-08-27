@@ -1,0 +1,17 @@
+{
+	id: "7d2f1b08-f1fc-47aa-8711-6870a87c7f5c"
+	type: "player"
+	player_name: "Nachoco1"
+	ranks: {
+		7d2f1b08-f1fc-47aa-8711-6870a87c7f5c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nachoco1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

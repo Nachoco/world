@@ -1,0 +1,17 @@
+{
+	id: "97c6c621-0b3b-4b5f-bee6-82b535f55e2a"
+	type: "player"
+	player_name: "Malenscl"
+	ranks: {
+		97c6c621-0b3b-4b5f-bee6-82b535f55e2a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Malenscl"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF70"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

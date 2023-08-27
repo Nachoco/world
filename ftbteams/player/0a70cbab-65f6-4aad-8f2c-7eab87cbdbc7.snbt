@@ -1,0 +1,17 @@
+{
+	id: "0a70cbab-65f6-4aad-8f2c-7eab87cbdbc7"
+	type: "player"
+	player_name: "MAX_FALCONY19"
+	ranks: {
+		0a70cbab-65f6-4aad-8f2c-7eab87cbdbc7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MAX_FALCONY19"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF60"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

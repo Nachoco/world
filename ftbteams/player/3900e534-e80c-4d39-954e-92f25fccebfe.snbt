@@ -1,0 +1,17 @@
+{
+	id: "3900e534-e80c-4d39-954e-92f25fccebfe"
+	type: "player"
+	player_name: "Rax_D"
+	ranks: {
+		3900e534-e80c-4d39-954e-92f25fccebfe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Rax_D"
+		"ftbteams:description": ""
+		"ftbteams:color": "#77FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

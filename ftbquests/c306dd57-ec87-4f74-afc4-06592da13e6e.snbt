@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "c306dd57ec874f74afc406592da13e6e"
+	name: "KeWeaita69"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: {
+		0000000000000000: 1692752489414L
+		450A4740EE2CD709: 1692752489414L
+		4C605EF60B7B067F: 1692752489414L
+		0000000000000001: 1692752489414L
+	}
+	claimed_rewards: {
+		"c306dd57ec874f74afc406592da13e6e:7F5F3732DEBC589A": 1692804565159L
+	}
+	player_data: { }
+}
